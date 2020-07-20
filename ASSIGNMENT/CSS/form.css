@@ -1,0 +1,40 @@
+body{
+    color:#001a0f;
+}
+
+button{
+	font-family:monospace;
+	background-color:#00e673;
+	color:white;
+}
+
+input[type=text] {
+	width: 300px; 
+}
+
+input[type=password] {
+	width: 300px; 
+}
+
+input[type=email] {
+	width: 300px; 
+}
+
+select{
+	width: 300px;
+}
+
+button{
+	width:300px;
+	border:none;
+	font-size:20px;
+	padding-bottom:20px;
+	padding-top:20px;
+}
+
+form{
+	border-style:solid;
+	border-color:#00264d;
+	border-width:450px;
+	padding:10px;
+}
